@@ -3,14 +3,14 @@
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Created a new branch main in [jasonko0607-ux/devops-pages-lab](https://github.com/jasonko0607-ux/devops-pages-lab/tree/main)
-2. 📝 Committed to main in [jasonko0607-ux/devops-pages-lab](https://github.com/jasonko0607-ux/devops-pages-lab/commit/c5be382f94a097e3795e1c927b5995e57cb57395)
-3. 📝 Committed to main in [jasonko0607-ux/devops-pages-lab](https://github.com/jasonko0607-ux/devops-pages-lab/commit/0d44d5b5418ec97157e5ff22ce5d0baa2d9be2de)
-4. 🗑️ Deleted a branch 6-e2-b-add-divide-b in [jasonko0607-ux/devops-a6](https://github.com/jasonko0607-ux/devops-a6)
-5. 📝 Committed to ff-demo in [jasonko0607-ux/devops-a6](https://github.com/jasonko0607-ux/devops-a6/commit/b88e733fe632cdbfca600f444c678a36ebb99028)
-6. 🎉 Created a new branch 6-e2-b-add-divide-b in [jasonko0607-ux/devops-a6](https://github.com/jasonko0607-ux/devops-a6/tree/6-e2-b-add-divide-b)
-7. 🎉 Created a new branch 1-e1-a-change-greeting-a in [jasonko0607-ux/devops-a6](https://github.com/jasonko0607-ux/devops-a6/tree/1-e1-a-change-greeting-a)
-8. 🎉 Created a new branch ff-demo in [jasonko0607-ux/devops-a6](https://github.com/jasonko0607-ux/devops-a6/tree/ff-demo)
-9. 📝 Committed to main in [jasonko0607-ux/devops-a6](https://github.com/jasonko0607-ux/devops-a6/commit/f3a6eb22b3eb4f26367ea686a7ba209fe6e5a875)
-10. 🗑️ Deleted a branch 10-e3-b-add-docsmerge-stylesmd-b in [jasonko0607-ux/devops-a6](https://github.com/jasonko0607-ux/devops-a6)
+1. 📝 Committed to main in [jasonko0607-ux/devops-pages-lab](https://github.com/jasonko0607-ux/devops-pages-lab/commit/1cb2a2a2ac6144e4cbec7594de316f55f5e2ae4b)
+2. 📝 Committed to main in [jasonko0607-ux/devops-pages-lab](https://github.com/jasonko0607-ux/devops-pages-lab/commit/fb11d93fb61e2b5f85c87493188fda31cf1583a9)
+3. 📝 Committed to main in [jasonko0607-ux/devops-pages-lab](https://github.com/jasonko0607-ux/devops-pages-lab/commit/c096fbcd51127c78f9b28d914ff7ec4aade6d5be)
+4. 📝 Committed to main in [jasonko0607-ux/devops-pages-lab](https://github.com/jasonko0607-ux/devops-pages-lab/commit/e95ce95c400c856624b9cb4b20249db753c91749)
+5. 🎉 Created a new branch main in [jasonko0607-ux/devops-pages-lab](https://github.com/jasonko0607-ux/devops-pages-lab/tree/main)
+6. 📝 Committed to main in [jasonko0607-ux/devops-pages-lab](https://github.com/jasonko0607-ux/devops-pages-lab/commit/c5be382f94a097e3795e1c927b5995e57cb57395)
+7. 📝 Committed to main in [jasonko0607-ux/devops-pages-lab](https://github.com/jasonko0607-ux/devops-pages-lab/commit/0d44d5b5418ec97157e5ff22ce5d0baa2d9be2de)
+8. 🗑️ Deleted a branch 6-e2-b-add-divide-b in [jasonko0607-ux/devops-a6](https://github.com/jasonko0607-ux/devops-a6)
+9. 📝 Committed to ff-demo in [jasonko0607-ux/devops-a6](https://github.com/jasonko0607-ux/devops-a6/commit/b88e733fe632cdbfca600f444c678a36ebb99028)
+10. 🎉 Created a new branch 6-e2-b-add-divide-b in [jasonko0607-ux/devops-a6](https://github.com/jasonko0607-ux/devops-a6/tree/6-e2-b-add-divide-b)
 <!--END_SECTION:activity-->
